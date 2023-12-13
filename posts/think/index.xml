@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>👨🏻‍💻 思考 on Bus in June&#39;s Blog</title>
-    <link>https://junjune.github.io/posts/think/</link>
-    <description>Recent content in 👨🏻‍💻 思考 on Bus in June&#39;s Blog</description>
+    <title>👨🏻‍💻 思考 on Bus in June</title>
+    <link>https://junjune97.github.io/posts/think/</link>
+    <description>Recent content in 👨🏻‍💻 思考 on Bus in June</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language><atom:link href="https://junjune.github.io/posts/think/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh</language><atom:link href="https://junjune97.github.io/posts/think/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
